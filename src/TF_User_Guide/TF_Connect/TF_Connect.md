@@ -5,7 +5,7 @@
 - [Create a Threefold Connect Account and Wallet](#create-a-threefold-connect-account-and-wallet)
   - [Download the Threefold Connect App](#download-the-threefold-connect-app)
   - [Create a Threefold Connect Account](#create-a-threefold-connect-account)
-  - [Verify Your Identity (KYC) by Email](#verify-your-identity-kyc-by-email)
+  - [Verify Your Identity by Email (KYC)](#verify-your-identity-by-email-kyc)
   - [Create a Threefold Connect Wallet](#create-a-threefold-connect-wallet)
 
 ***
@@ -85,7 +85,7 @@ But first, let's see how the basic KYC works.
 
 ***
 
-## Verify Your Identity (KYC) by Email
+## Verify Your Identity by Email (KYC)
 
 Once you've created your account, an email will be sent to the email address you've chosen in the account creation process. 
 
