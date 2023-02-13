@@ -36,7 +36,7 @@ Either use the links above, or search for the Threefold Connect App on the Apple
 ![farming_tf_wallet_1](./img/farming_tf_wallet_1.png)
 ![farming_tf_wallet_2](./img/farming_tf_wallet_2.png)
 
-When you try to open the App, if you get an error message such as : "Error in initialization in Flagsmith...", you might need to upgrade your phone to a newer software version (Android 8.0 and iOS 15).
+When you try to open the App, if you get an error message such as : "Error in initialization in Flagsmith...", you might need to upgrade your phone to a newer software version (Android 8.1 and iOS 15).
 
 ***
 
