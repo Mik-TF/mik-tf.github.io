@@ -29,14 +29,14 @@ The main steps are simple and you will be done in no time.
 The Threefold Connect app is available for [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885).
 
 - Note that for Android phones, you need at minimum Android Nougat, the 8.0 software version.
-- Note that for iOS phones, you need at minimum iOS 14.5. It will be soon available to iOS 13.
+- Note that for iOS phones, you need at minimum iOS 15.
 
 Either use the links above, or search for the Threefold Connect App on the Apple Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the App, no one here will stop you!
 
 ![farming_tf_wallet_1](./img/farming_tf_wallet_1.png)
 ![farming_tf_wallet_2](./img/farming_tf_wallet_2.png)
 
-When you try to open the App, if you get an error message such as : "Error in initialization in Flagsmith...", you might need to upgrade your phone to a newer software version (8.0 for Android and 13 for iOS).
+When you try to open the App, if you get an error message such as : "Error in initialization in Flagsmith...", you might need to upgrade your phone to a newer software version (Android 8.0 and iOS 15).
 
 ***
 
