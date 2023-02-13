@@ -28,8 +28,8 @@ The main steps are simple and you will be done in no time.
 
 The Threefold Connect app is available for [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885).
 
-- Note that for Android phones, you need at minimum Android Nougat, the 8.0 software version.
-- Note that for iOS phones, you need at minimum iOS 15.
+- Note that for Android phones, you need at minimum Android 8.1
+- Note that for iOS phones, you need at minimum iOS 15
 
 Either use the links above, or search for the Threefold Connect App on the Apple Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the App, no one here will stop you!
 
