@@ -10,7 +10,6 @@
 
 ***
 
-
 # Create a Threefold Connect Account and Wallet
 
 In this tutorial, we show you how to create a Threefold Connect account and wallet.
@@ -136,7 +135,7 @@ Once inside your wallet, this is what you see.
 
 ![farming_tf_wallet_17](./img/farming_tf_wallet_17.png)
 
-We will now see where the Stellar and the TF Chain Addresses and Secrets are to be found. We will also changing the wallet name. To do so, click on the *circled i* at the bottom right of the screen.
+We will now see where the Stellar and the TF Chain Addresses and Secrets are to be found. We will also change the wallet name. To do so, click on the *circled i* at the bottom right of the screen.
 
 ![farming_tf_wallet_18](./img/farming_tf_wallet_18.png)
 
