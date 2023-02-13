@@ -31,7 +31,7 @@ The Threefold Connect app is available for [Android](https://play.google.com/sto
 - Note that for Android phones, you need at minimum Android 8.1
 - Note that for iOS phones, you need at minimum iOS 15
 
-Either use the links above, or search for the Threefold Connect app on the Apple Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the app, no one here will stop you!
+Either use the links above, or search for the Threefold Connect app on the App Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the app, no one here will stop you!
 
 ![farming_tf_wallet_1](./img/farming_tf_wallet_1.png)
 ![farming_tf_wallet_2](./img/farming_tf_wallet_2.png)
