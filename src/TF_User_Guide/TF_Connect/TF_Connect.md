@@ -16,7 +16,7 @@ In this tutorial, we show you how to create a Threefold Connect account and wall
 
 The main steps are simple and you will be done in no time.
 
-* Download the Threefold Connect App
+* Download the Threefold Connect app
 * Create a Threefold Connect Account
 * Verify your identity by email (KYC)
 * Create a Threefold Connect Wallet
@@ -31,7 +31,7 @@ The Threefold Connect app is available for [Android](https://play.google.com/sto
 - Note that for Android phones, you need at minimum Android 8.1
 - Note that for iOS phones, you need at minimum iOS 15
 
-Either use the links above, or search for the Threefold Connect App on the Apple Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the App, no one here will stop you!
+Either use the links above, or search for the Threefold Connect app on the Apple Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the app, no one here will stop you!
 
 ![farming_tf_wallet_1](./img/farming_tf_wallet_1.png)
 ![farming_tf_wallet_2](./img/farming_tf_wallet_2.png)
@@ -42,7 +42,7 @@ When you try to open the App, if you get an error message such as : "Error in in
 
 ## Create a Threefold Connect Account
 
-Once you are in the application, you will see some introduction pages to help you familiarize with the TF Connect App. You will also be asked to read and accept Threefold's Terms and conditions.
+Once you are in the application, you will see some introduction pages to help you familiarize with the TF Connect app. You will also be asked to read and accept Threefold's Terms and conditions.
 
 ![farming_tf_wallet_3](./img/farming_tf_wallet_3.png)
 ![farming_tf_wallet_4](./img/farming_tf_wallet_4.png)
@@ -71,11 +71,11 @@ Then, you'll be asked to confirm your TF 3bot name and the associated email.
 
 ![farming_tf_wallet_10](./img/farming_tf_wallet_10.png)
 
-Finally, you will be asked to choose a 4-digit pin. This will be needed to use the Threefold Connect App. If you ever forget this 4-digit pin, you will need to recover your account from your 3bot name and your seed phrase. You will need to confirm the new pin in the next step.
+Finally, you will be asked to choose a 4-digit pin. This will be needed to use the Threefold Connect app. If you ever forget this 4-digit pin, you will need to recover your account from your 3bot name and your seed phrase. You will need to confirm the new pin in the next step.
 
 ![farming_tf_wallet_11](./img/farming_tf_wallet_11.png)
 
-That's it! You've created your Threefold Connect account. You can press the hamburger menu on the top left to explore the Threefold Connect App.
+That's it! You've created your Threefold Connect account. You can press the hamburger menu on the top left to explore the Threefold Connect app.
 
 ![farming_tf_wallet_12](./img/farming_tf_wallet_12.png)
 
@@ -115,7 +115,7 @@ Let's go!
 
 ## Create a Threefold Connect Wallet
 
-To create a wallet, click on the Threefold Connect App menu. This is what you see. Choose *Wallet*.
+To create a wallet, click on the Threefold Connect app menu. This is what you see. Choose *Wallet*.
 
 ![farming_tf_wallet_13](./img/farming_tf_wallet_13.png)
 
