@@ -47,7 +47,7 @@ Once you are in the application, you will see some introduction pages to help yo
 ![farming_tf_wallet_3](./img/farming_tf_wallet_3.png)
 ![farming_tf_wallet_4](./img/farming_tf_wallet_4.png)
 
-You will then be asked to either *SIGN UP* or *RECOVER ACCOUNT*. For now, we will show how to sign up. Later in the guide, we will show you how to recover an account.
+You will then be asked to either *SIGN UP* or *RECOVER ACCOUNT*. To create a new account, click *SIGN UP*.
 
 ![farming_tf_wallet_5](./img/farming_tf_wallet_5.png)
 
@@ -135,7 +135,7 @@ Once inside your wallet, this is what you see.
 
 ![farming_tf_wallet_17](./img/farming_tf_wallet_17.png)
 
-We will now see where the Stellar and the TF Chain Addresses and Secrets are to be found. We will also change the wallet name. To do so, click on the *circled i* at the bottom right of the screen.
+We will now see where the Stellar and the TFChain Addresses and Secrets are to be found. We will also change the wallet name. To do so, click on the *circled i* at the bottom right of the screen.
 
 ![farming_tf_wallet_18](./img/farming_tf_wallet_18.png)
 

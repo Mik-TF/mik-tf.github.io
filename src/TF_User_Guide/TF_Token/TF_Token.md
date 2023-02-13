@@ -12,7 +12,7 @@
 
 # Get TFT: Buy TFT on Lobstr
 
-The Threefold token (TFT) is the utility token of the The Threefold Grid, a decentralized and open-source project offering network, compute and storage capacity.
+The Threefold token (TFT) is the utility token of the Threefold Grid, a decentralized and open-source project offering network, compute and storage capacity.
 
 Threefold Tokens (TFT) are created (minted) by the ThreeFold Blockchain (TFChain) only when new Internet capacity is added to the ThreeFold Grid by farmers. For this reason, TFT is a pure utility token as minting is solely the result of farming on the Threefold Grid.
 
@@ -124,7 +124,7 @@ At the botton of the section, click on the encircled **i** button:
 
 ![image](./img/gettft_14.png)
 
-Then, click on the **eye** button to reveal your secret key:
+Next, click on the **eye** button to reveal your secret key:
 
 ![image](./img/gettft_15.png)
 
@@ -178,7 +178,7 @@ This process is usually fast. Within a few minutes, you should receive your XLM.
 
 ![image](./img/gettft_27.png)
 
-Once you've received your XLM, you will receive a notification:
+Once the XLM is delivered, you will receive a notification:
 
 ![image](./img/gettft_28.png)
 

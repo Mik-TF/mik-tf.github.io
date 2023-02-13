@@ -4,7 +4,7 @@
 
 - [Threefold Dashboard: Create Account and Transfer TFT](#threefold-dashboard-create-account-and-transfer-tft)
   - [Create Polkadot Extension Account](#create-polkadot-extension-account)
-  - [Transfer TFT from Stellar Chain to TF Chain](#transfer-tft-from-stellar-chain-to-tf-chain)
+  - [Transfer TFT from Stellar Chain to TFChain](#transfer-tft-from-stellar-chain-to-tfchain)
 
 ***
 
@@ -79,7 +79,7 @@ Then, simply click on your account name to access the Threefold Dashboard:
 
 ![image](./img/dashboard_14.png)
 
-Once you open your account, you will want to create a Twin ID. Make sure it is written **::1** in the box and click **Create**. 
+Once you open your account, you can create a Twin ID. Make sure it is written **::1** in the box and click **Create**. 
 
 ![image](./img/dashboard_15.png)
 
@@ -95,7 +95,7 @@ You'll see, this is so easy thanks to the Threefold Dashboard configuration.
 
 ***
 
-## Transfer TFT from Stellar Chain to TF Chain
+## Transfer TFT from Stellar Chain to TFChain
 
 On the [Threefold Dashboard](https://dashboard.grid.tf/), click on the **Portal**, then click on **Swap**.
 
@@ -103,15 +103,15 @@ Make sure the chain **stellar** is selected. Then click **Deposit**, as we want 
 
 ![image](./img/dashboard_16.png)
 
-Next, you will want to scan the QR code shown on the screen. Scan the QR code with your Threefold Connect app.
+Next, you will scan the QR code shown on the screen with the Threefold Connect app.
 
-> Note that you can also manually enter your Stellar Chain address as well as the Twin ID.
+> Note that you can also manually enter the Stellar Chain address and the Twin ID.
 
 ![image](./img/dashboard_17.png)
 
-Now open up your Threefold Connect app and follow those steps:
+To scan the QR code on the Threefold Connec app, follow those steps:
 
-Click on the **Home** menu:
+Click on the menu button:
 
 ![image](./img/dashboard_18.png)
 
@@ -144,7 +144,7 @@ You will then simply need to confirm the transaction. It is a good opportunity t
 
 You should then receive your TFT on your Dashboard account within a few minutes.
 
-You can see your TFT balanced on the top of the screen. Here's an example of what it could look like:
+You can see your TFT balance on the top of the screen. Here's an example of what it could look like:
 
 ![image](./img/dashboard_24.png)
 
