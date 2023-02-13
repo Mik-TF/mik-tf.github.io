@@ -1,9 +1,0 @@
-[book]
-authors = ["mik-tf"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Threefold Guide"
-
-[output.html]
-no-section-label = true
