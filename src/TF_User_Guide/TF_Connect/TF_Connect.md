@@ -51,11 +51,11 @@ You will then be asked to either *SIGN UP* or *RECOVER ACCOUNT*. To create a new
 
 ![farming_tf_wallet_5](./img/farming_tf_wallet_5.png)
 
-You will then be asked to choose a *Threefold Connect Id*. This ID will be used, as well as the seed phrase, when you want to recover an account. Choose wisely. And do not forget it! Here we will use TFExample, as an example.
+Then, choose a *Threefold Connect Id*. This ID will be used, as well as the seed phrase, when you want to recover an account. Choose wisely. And do not forget it! Here we will use TFExample, as an example.
 
 ![farming_tf_wallet_6](./img/farming_tf_wallet_6.png)
 
-Next, you need to add a valid email address. This will be used as a broad KYC. You will need to access your email and confirm the validation email from Threefold to use properly the TF Connect App Wallet.
+Next, you need to add a valid email address. This will be used as a broad KYC. You will need to access your email and confirm the validation email from Threefold to use properly the TF Connect app wallet.
 
 ![farming_tf_wallet_7](./img/farming_tf_wallet_7.png)
 
@@ -87,9 +87,7 @@ But first, let's see how the basic KYC works.
 
 ## Verify Your Identity by Email (KYC)
 
-Once you've created your account, an email will be sent to the email address you've chosen in the account creation process. 
-
-To verify your email, go on your email account and open the email sent by *info@openkyc.live* with the subject *Verify your email address*. 
+Once you've created your account, an email will be sent to the email address you've chosen in the account creation process. To verify your email, go on your email account and open the email sent by *info@openkyc.live* with the subject *Verify your email address*. 
 
 In this email, click on the link *Verify my email address*. This will lead you to a *login.threefold.me* link. The process should be automatic. Once this is done, you will receive a confirmation on screen, as well as on your phone.
 
@@ -127,7 +125,7 @@ This is what you see when the TF Grid is initializing your wallet.
 
 ![farming_tf_wallet_15](./img/farming_tf_wallet_15.png)
 
-Once your wallet is initialized, you will see *No blanace found for this wallet*. You can click on this button to enter the wallet.
+Once your wallet is initialized, you will see *No balance found for this wallet*. You can click on this button to enter the wallet.
 
 ![farming_tf_wallet_16](./img/farming_tf_wallet_16.png)
 
