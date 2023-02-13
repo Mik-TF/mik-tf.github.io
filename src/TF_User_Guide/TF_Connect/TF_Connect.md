@@ -18,7 +18,7 @@ The main steps are simple and you will be done in no time.
 
 * Download the Threefold Connect App
 * Create a Threefold Connect Account
-* Verify your identity (KYC) by email
+* Verify your identity by email (KYC)
 * Create a Threefold Connect Wallet
 
 ***
