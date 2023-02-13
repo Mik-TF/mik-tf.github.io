@@ -55,7 +55,7 @@ Then, choose a *Threefold Connect Id*. This ID will be used, as well as the seed
 
 ![farming_tf_wallet_6](./img/farming_tf_wallet_6.png)
 
-Next, you need to add a valid email address. This will be used as a broad KYC. You will need to access your email and confirm the validation email from Threefold to use properly the TF Connect app wallet.
+Next, you need to add a valid email address. This will be used as a broad KYC. You will need to access your email and confirm the Threefold validation email to fully use the Threefold Connect app.
 
 ![farming_tf_wallet_7](./img/farming_tf_wallet_7.png)
 
