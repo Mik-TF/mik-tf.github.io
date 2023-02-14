@@ -18,7 +18,7 @@ The main steps are simple and you will be done in no time.
 
 * Download the Threefold Connect app
 * Create a Threefold Connect Account
-* Verify your identity by email (KYC)
+* Verify your Identity by Email (KYC)
 * Create a Threefold Connect Wallet
 
 ***
@@ -31,18 +31,18 @@ The Threefold Connect app is available for [Android](https://play.google.com/sto
 - Note that for Android phones, you need at minimum Android 8.1
 - Note that for iOS phones, you need at minimum iOS 15
 
-Either use the links above, or search for the Threefold Connect app on the App Store or the Google Play store. Then install and open the app. If you want to leave a 5 star review of the app, no one here will stop you!
+Either use the links above, or search for the Threefold Connect app on the App Store or the Google Play Store. Then install and open the app. If you want to leave a 5-star review of the app, no one here will stop you!
 
 ![farming_tf_wallet_1](./img/farming_tf_wallet_1.png)
 ![farming_tf_wallet_2](./img/farming_tf_wallet_2.png)
 
-When you try to open the App, if you get an error message such as : "Error in initialization in Flagsmith...", you might need to upgrade your phone to a newer software version (Android 8.1 and iOS 15).
+When you try to open the app, if you get an error message such as: "Error in initialization in Flagsmith...", you might need to upgrade your phone to a newer software version (Android 8.1 and iOS 15).
 
 ***
 
 ## Create a Threefold Connect Account
 
-Once you are in the application, you will see some introduction pages to help you familiarize with the TF Connect app. You will also be asked to read and accept Threefold's Terms and conditions.
+Once you are in the app, you will see some introduction pages to help you familiarize with the TF Connect app. You will also be asked to read and accept Threefold's Terms and Conditions.
 
 ![farming_tf_wallet_3](./img/farming_tf_wallet_3.png)
 ![farming_tf_wallet_4](./img/farming_tf_wallet_4.png)
@@ -51,7 +51,7 @@ You will then be asked to either *SIGN UP* or *RECOVER ACCOUNT*. To create a new
 
 ![farming_tf_wallet_5](./img/farming_tf_wallet_5.png)
 
-Then, choose a *Threefold Connect Id*. This ID will be used, as well as the seed phrase, when you want to recover an account. Choose wisely. And do not forget it! Here we will use TFExample, as an example.
+Then, choose a *Threefold Connect Id*. This 3bot ID will be used, as well as the seed phrase, when you want to recover an account. Choose wisely. And do not forget it! Here we will use TFExample, as an example.
 
 ![farming_tf_wallet_6](./img/farming_tf_wallet_6.png)
 
@@ -63,11 +63,11 @@ Then, the next step is crucial! Make sure no one is around looking at your scree
 
 ![farming_tf_wallet_8](./img/farming_tf_wallet_8.png)
 
-Once you've hit Next, you will be asked to write down 3 random words of your seed phrase. This is a necessary step to ensure you have taken the time to write down your seed phrase.
+Once you've hit *Next*, you will be asked to write down 3 random words of your seed phrase. This is a necessary step to ensure you have taken the time to write down your seed phrase.
 
 ![farming_tf_wallet_9](./img/farming_tf_wallet_9.png)
 
-Then, you'll be asked to confirm your TF 3bot name and the associated email.
+Then, you'll be asked to confirm your TF 3bot ID and the associated email.
 
 ![farming_tf_wallet_10](./img/farming_tf_wallet_10.png)
 
@@ -79,7 +79,7 @@ That's it! You've created your Threefold Connect account. You can press the hamb
 
 ![farming_tf_wallet_12](./img/farming_tf_wallet_12.png)
 
-In the next step, we will create a Threefold Connect Wallet. You'll see, it's very simple!
+In the next step, we will create a Threefold Connect wallet. You'll see, it's very simple!
 
 But first, let's see how the basic KYC works.
 
@@ -87,7 +87,7 @@ But first, let's see how the basic KYC works.
 
 ## Verify Your Identity by Email (KYC)
 
-Once you've created your account, an email will be sent to the email address you've chosen in the account creation process. To verify your email, go on your email account and open the email sent by *info@openkyc.live* with the subject *Verify your email address*. 
+Once you've created your account, an email will be sent to the email address you've chosen in the account creation process. To verify your email, go on your email inbox and open the email sent by *info@openkyc.live* with the subject *Verify your email address*. 
 
 In this email, click on the link *Verify my email address*. This will lead you to a *login.threefold.me* link. The process should be automatic. Once this is done, you will receive a confirmation on screen, as well as on your phone.
 
@@ -97,7 +97,7 @@ In this email, click on the link *Verify my email address*. This will lead you t
 
 ![farming_tf_wallet_41](./img/farming_tf_wallet_41.png)
 
-If for some reason, you did not receive the verification email, simply click on *Verify* and another email will be sent.
+If, for some reason, you did not receive the verification email, simply click on *Verify* and another email will be sent.
 
 ![farming_tf_wallet_42](./img/farming_tf_wallet_42.png)
 
@@ -105,7 +105,7 @@ If for some reason, you did not receive the verification email, simply click on 
 
 That's it! You've now created a Threefold Connect account. 
 
-All that is left to do, is to create a Threefold Connect wallet. This is very simple. 
+All that is left to do is to create a Threefold Connect wallet. This is very simple. 
 
 Let's go!
 
@@ -113,7 +113,7 @@ Let's go!
 
 ## Create a Threefold Connect Wallet
 
-To create a wallet, click on the Threefold Connect app menu. This is what you see. Choose *Wallet*.
+To create a wallet, click on the Threefold Connect app menu, then choose *Wallet*.
 
 ![farming_tf_wallet_13](./img/farming_tf_wallet_13.png)
 
