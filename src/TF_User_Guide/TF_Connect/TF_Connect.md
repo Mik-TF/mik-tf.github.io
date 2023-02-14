@@ -59,7 +59,7 @@ Next, you need to add a valid email address. This will be used as a broad KYC. Y
 
 ![farming_tf_wallet_7](./img/farming_tf_wallet_7.png)
 
-Then, the next step is crucial! Make sure no one is around looking at your screen. You will be shown your seed phrase. Keep this in a secure and offline place. You will need the 3bot ID and the seed phrase to recover your account. This seed phrase is of utmost important. Do not lose it nor give it to anyone.
+The next step is crucial! Make sure no one is around looking at your screen. You will be shown your seed phrase. Keep this in a secure and offline place. You will need the 3bot ID and the seed phrase to recover your account. This seed phrase is of utmost important. Do not lose it nor give it to anyone.
 
 ![farming_tf_wallet_8](./img/farming_tf_wallet_8.png)
 
