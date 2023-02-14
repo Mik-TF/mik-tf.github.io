@@ -135,11 +135,13 @@ Once inside your wallet, this is what you see.
 
 We will now see where the Stellar and the TFChain Addresses and Secrets are to be found. We will also change the wallet name. To do so, click on the *encircled i* at the bottom right of the screen.
 
+On this page, you can access your Stellar and TFChain addresses as well as your Stellar and TFChain secret keys.
+
 ![farming_tf_wallet_18](./img/farming_tf_wallet_18.png)
 
-![farming_tf_wallet_19](./img/farming_tf_wallet_19.png)
+To change the name of your wallet, click on the button next to *Wallet Name*. Here we use TFWalletExample. Note that you can also use alphanumeric characters.
 
-You can choose the name you want for your wallet. Here we use TFWalletExample. Note that you can also use alphanumeric characters.
+![farming_tf_wallet_19](./img/farming_tf_wallet_19.png)
 
 ![farming_tf_wallet_20](./img/farming_tf_wallet_20.png)
 
