@@ -1,7 +1,5 @@
 <h1>Threefold Guide Videos</h1>
 
-<h2>Table of Contents</h2>
-
 - [Threefold Connect Create Account and Wallet](#threefold-connect-create-account-and-wallet)
 - [Threefold Connect Create Farm](#threefold-connect-create-farm)
 - [Threefold Connect Recover Account](#threefold-connect-recover-account)
