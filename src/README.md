@@ -10,4 +10,6 @@
   - [3node DIY Desktop](TF_Farmer_Guide/3node_diy_desktop/3node_diy_desktop.html)
   - [3node DIY Rack Server](TF_Farmer_Guide/3node_diy_rack_server/3node_diy_rack_server.html)
 
+- [Threefold Guide Videos](TF_Guide_Videos/tf_guide_videos.html)
+
 - [FAQ](TF_FAQ/faq.html)

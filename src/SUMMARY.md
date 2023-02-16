@@ -9,5 +9,5 @@
   - [Threefold Complete Farming Guide](TF_Farmer_Guide/TF_Complete_Farmer_Guide/farmer_guide.md)
   - [3node DIY Desktop](TF_Farmer_Guide/3node_diy_desktop/3node_diy_desktop.md)
   - [3node DIY Rack Server](TF_Farmer_Guide/3node_diy_rack_server/3node_diy_rack_server.md)
-- [Threefold FAQ](TF_FAQ/faq.md)
 - [Threefold Guide Videos](TF_Guide_Videos/TF_Guide_Videos.md)
+- [Threefold FAQ](TF_FAQ/faq.md)

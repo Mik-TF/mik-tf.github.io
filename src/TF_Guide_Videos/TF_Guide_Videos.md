@@ -1,20 +1,19 @@
-# Threefold Guide Videos
+<h1>Threefold Guide Videos</h1>
 
 <h2>Table of Contents</h2>
 
-- [Threefold Guide Videos](#threefold-guide-videos)
-  - [Threefold Connect Create Account and Wallet](#threefold-connect-create-account-and-wallet)
-  - [Threefold Connect Create Farm](#threefold-connect-create-farm)
-  - [Threefold Connect Recover Account](#threefold-connect-recover-account)
-  - [Threefold Connect TFChain Secret](#threefold-connect-tfchain-secret)
-  - [Threefold Dashboard Install Polkadot Extension](#threefold-dashboard-install-polkadot-extension)
-  - [Threefold Dashboard Create Account](#threefold-dashboard-create-account)
-  - [Threefold Dashboard Remove Account](#threefold-dashboard-remove-account)
-  - [Threefold Dashboard Create Farm and Zero-OS Bootstrap Image](#threefold-dashboard-create-farm-and-zero-os-bootstrap-image)
-  - [Threefold Dashboard Import Threefold Connect Account, Farm and Wallet](#threefold-dashboard-import-threefold-connect-account-farm-and-wallet)
-  - [Threefold Dashboard Explorer Overview](#threefold-dashboard-explorer-overview)
-  - [Threefold Dashboard Calculators Resource Pricing](#threefold-dashboard-calculators-resource-pricing)
-  - [Threefold Download Zero-OS Bootstrap Image](#threefold-download-zero-os-bootstrap-image)
+- [Threefold Connect Create Account and Wallet](#threefold-connect-create-account-and-wallet)
+- [Threefold Connect Create Farm](#threefold-connect-create-farm)
+- [Threefold Connect Recover Account](#threefold-connect-recover-account)
+- [Threefold Connect TFChain Secret](#threefold-connect-tfchain-secret)
+- [Threefold Dashboard Install Polkadot Extension](#threefold-dashboard-install-polkadot-extension)
+- [Threefold Dashboard Create Account](#threefold-dashboard-create-account)
+- [Threefold Dashboard Remove Account](#threefold-dashboard-remove-account)
+- [Threefold Dashboard Create Farm and Zero-OS Bootstrap Image](#threefold-dashboard-create-farm-and-zero-os-bootstrap-image)
+- [Threefold Dashboard Import Threefold Connect Account, Farm and Wallet](#threefold-dashboard-import-threefold-connect-account-farm-and-wallet)
+- [Threefold Dashboard Explorer Overview](#threefold-dashboard-explorer-overview)
+- [Threefold Dashboard Calculators Resource Pricing](#threefold-dashboard-calculators-resource-pricing)
+- [Threefold Download Zero-OS Bootstrap Image](#threefold-download-zero-os-bootstrap-image)
 
 ## Threefold Connect Create Account and Wallet
 
