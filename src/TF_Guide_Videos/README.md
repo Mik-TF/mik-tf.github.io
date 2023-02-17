@@ -12,6 +12,13 @@
 - [Threefold Dashboard Explorer Overview](#threefold-dashboard-explorer-overview)
 - [Threefold Dashboard Calculators Resource Pricing](#threefold-dashboard-calculators-resource-pricing)
 - [Threefold Download Zero-OS Bootstrap Image](#threefold-download-zero-os-bootstrap-image)
+- [Threefold Connect Dashboard Swap, Stellar Chain to TFChain](#threefold-connect-dashboard-swap-stellar-chain-to-tfchain)
+- [Threefold Connect Dashboard Swap, TFChain to Stellar Chain](#threefold-connect-dashboard-swap-tfchain-to-stellar-chain)
+- [TF Dashboard Transfer, Dashboard to Dashboard](#tf-dashboard-transfer-dashboard-to-dashboard)
+- [TF Dashboard Transfer, Dashboard to TF Connect](#tf-dashboard-transfer-dashboard-to-tf-connect)
+- [TF Dashboard Transfer TF Connect to Dashboard](#tf-dashboard-transfer-tf-connect-to-dashboard)
+- [TF Connect TFChain and Stellar Chain Address and Secret](#tf-connect-tfchain-and-stellar-chain-address-and-secret)
+- [TF Connect Send TFT, Stellar Chain to Stellar Chain](#tf-connect-send-tft-stellar-chain-to-stellar-chain)
 
 ## Threefold Connect Create Account and Wallet
 
@@ -83,5 +90,47 @@
 
 <div class="youtubeVideoWrapper">
 <iframe title="Threefold Download Zero-OS Bootstrap Image" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/89541f1f-965a-4e36-881b-891689230fda" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## Threefold Connect Dashboard Swap, Stellar Chain to TFChain
+
+<div class="youtubeVideoWrapper">
+<iframe title="Threefold Connect Dashboard Swap, Stellar Chain to TFChain" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/4f31c61d-4d63-4221-8f08-d8a563ac7199" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## Threefold Connect Dashboard Swap, TFChain to Stellar Chain
+
+<div class="youtubeVideoWrapper">
+<iframe title="Threefold Connect Dashboard Swap, TFChain to Stellar Chain" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/2a3a33b9-b92d-4212-9f16-a74e85e5351f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## TF Dashboard Transfer, Dashboard to Dashboard
+
+<div class="youtubeVideoWrapper">
+<iframe title="TF Dashboard Transfer, Dashboard to Dashboard" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/dd251ffb-0d2a-4a39-9cda-4fa3dfeee234" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## TF Dashboard Transfer, Dashboard to TF Connect
+
+<div class="youtubeVideoWrapper">
+<iframe title="TF Dashboard Transfer, Dashboard to TF Connect" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/1614cf15-1962-4b58-ab24-151263dfcf11" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## TF Dashboard Transfer TF Connect to Dashboard
+
+<div class="youtubeVideoWrapper">
+<iframe title="TF Dashboard Transfer TF Connect to Dashboard" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/9e7587bc-04bf-4852-a5dc-ffd0cb470387" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## TF Connect TFChain and Stellar Chain Address and Secret
+
+<div class="youtubeVideoWrapper">
+<iframe title="TF Connect TFChain and Stellar Chain Address and Secret" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/736973a9-1513-42ec-b5dd-17ce571969f9" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
+## TF Connect Send TFT, Stellar Chain to Stellar Chain
+
+<div class="youtubeVideoWrapper">
+<iframe title="TF Connect Send TFT, Stellar Chain to Stellar Chain" width="560" height="315" src="https://peertube.hostservice.nl/videos/embed/b077003a-bf13-413d-9536-63c605b99009" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 </div>
 
