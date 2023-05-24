@@ -3,7 +3,7 @@ authors = ["mik-tf"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Threefold Guide"
+title = "Threefold Books"
 
 [output.html]
 no-section-label = true
