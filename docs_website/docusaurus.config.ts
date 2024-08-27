@@ -5,13 +5,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ThreeFold Docs',
   tagline: 'Decentralized Autonomous Cloud',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_blue.svg',
 
   // Set the production url of your site here
-  url: 'https://docs.threefold.pro',
+  url: 'https://docs.threefold.info',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -59,10 +59,24 @@ const config: Config = {
     ],
   ],
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+  scripts: [
+    
+    {
+      src:
+        '/js/crisp.js',
+      async: false,
+    },
+  ],
+
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true,
+      disableSwitch: false,
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card
@@ -72,6 +86,7 @@ const config: Config = {
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo_dark.svg',
       },
       items: [
         {
@@ -101,6 +116,10 @@ const config: Config = {
             {
               label: 'Litepaper',
               to: '/docs/litepaper',
+            },
+            {
+              label: 'Tokenomics',
+              to: '/docs/tokenomics',
             },
             {
               label: 'Node Guides',
